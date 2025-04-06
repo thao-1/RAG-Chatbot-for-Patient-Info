@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+fastapi
+uvicorn
+python-dotenv
+pypdf
+unstructured
+faiss-cpu  
+chromadb
+sentence-transformers
+huggingface-hub
