@@ -140,7 +140,3 @@ The system uses a RAG (Retrieval-Augmented Generation) approach with the followi
    - FAISS (Facebook AI Similarity Search) for efficient similarity search
    - Configurable number of neighbors (k=4)
    - Cosine similarity for embedding comparison
-
-## License
-
-[Your chosen license]
